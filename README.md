@@ -44,18 +44,6 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadirkus&theme=dark&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Bahadirkus Streak" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <a href="#">

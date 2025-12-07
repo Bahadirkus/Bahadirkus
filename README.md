@@ -13,10 +13,6 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bahadirkus&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Bahadirkus Trophies" />
-</a>
-
 </div>
 
 ---

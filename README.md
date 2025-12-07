@@ -57,12 +57,6 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadirkus&theme=dark&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Bahadirkus Streak" />
 </a>
 
-<br/>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahadirkus&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&langs_count=6" alt="Top Languages" />
-</a>
-
 </div>
 
 ---

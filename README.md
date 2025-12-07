@@ -21,17 +21,29 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,git,vscode,visualstudio&perline=8" />
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,git,vscode,visualstudio&perline=8" />
+</a>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=arduino,blender,solidworks,au,xd,photoshop&perline=6" />
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,solidworks,au,xd,photoshop&perline=6" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Fusion%20360-CAD%20Design-F57F24?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardware-PCB%20Design-0091BD?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulation-Digital%20Twin-5C2D91?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Physics-Soft%20Body-FF4081?style=for-the-badge" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Fusion%20360-CAD%20Design-F57F24?style=for-the-badge&logo=autodesk&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Hardware-PCB%20Design-0091BD?style=for-the-badge&logo=arduino&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Simulation-Digital%20Twin-5C2D91?style=for-the-badge" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Physics-Soft%20Body-FF4081?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -41,11 +53,15 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadirkus&theme=dark&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Bahadirkus Streak" />
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadirkus&theme=dark&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Bahadirkus Streak" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahadirkus&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&langs_count=6" alt="Top Languages" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahadirkus&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&langs_count=6" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -53,6 +69,8 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Bahadirkus&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=Bahadirkus&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+</a>
 
 </div>

@@ -22,12 +22,7 @@ Founder of a med-tech startup, creating clinically validated **surgical simulato
 <div align="center">
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,git,vscode,visualstudio&perline=8" />
-</a>
-<br/>
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=arduino,blender,solidworks,au,xd,photoshop&perline=6" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,vscode,visualstudio,arduino,blender,autocad,photoshop&perline=6" />
 </a>
 
 <br/>
